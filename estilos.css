@@ -1,0 +1,31 @@
+h1{
+  color:lightgreen;
+  text-align: center;
+  text-shadow: 2px 2px #fbfd8a;
+  font-size: 70px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px
+  
+}
+p{
+  background: center;
+  background-color: blue;
+  color: #b6eb7a;
+  text-align: center;
+  font-size: 30px; 
+  margin-top: 100px;
+  margin-bottom: 300px;
+  margin-right: 150px;
+  margin-left: 80px
+  
+}
+body{
+  background-image: url("imagen.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1800px 1000px;
+}
+        
+  
